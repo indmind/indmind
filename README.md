@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codwwars](https://www.codewars.com/users/indmind/badges/large)
+[![Codwwars](https://www.codewars.com/users/indmind/badges/large)](https://www.codewars.com/users/indmind)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indmind)](https://github.com/anuraghazra/github-readme-stats)
