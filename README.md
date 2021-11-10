@@ -1,7 +1,7 @@
 [![Header](./assets/readme_header.png "Header")](https://martinheinz.dev/)
 
 # Hi there 👋
-My name is [Tio Misbaqul Irawan](https://indmind.github.io) and I'm a full-stack mobile developer. I'm from Indonesia, living in Batu, East Java and currently studying at SMKN 8 Malang.
+My name is [Tio Misbaqul Irawan](https://indmind.github.io) and I'm a full-stack mobile developer. I'm from Indonesia, living in Batu, East Java and currently studying at State Polytechnic of Malang.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
